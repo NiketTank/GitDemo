@@ -11,7 +11,7 @@ this.year=year;
 }
 public string tostring()
 {
-return (day +" "+month+" "+year);
+return (day +"25 "+month+" "+year);
 }
 
 
